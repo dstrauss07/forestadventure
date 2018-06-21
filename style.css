@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Elsie|Great+Vibes|Open+Sans');
+
+body {
+    background-color: wheat;
+    text-align: center;
+    font-family: "Open Sans";
+}
+
+img {
+    width:80%;
+    max-height: 80vh;
+}
+
+button {
+    background: #E82F00;
+    color: black;
+    font-size: 1.3rem;
+    font-weight:bold;    
+}
+
+.forest {
+font-family: "Elsie";
+color: forestgreen;
+}
+
+p {
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+h4{
+    font: 1.5rem;
+}
+
+#bear{
+    color:darkred;    }
